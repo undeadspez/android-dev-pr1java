@@ -5,9 +5,6 @@ import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.Transformations;
 import androidx.lifecycle.ViewModel;
 import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
-
-import java.util.stream.Stream;
 import ua.nure.liubchenko.pr1.utils.ColorUtils;
 
 public class MainViewModel extends ViewModel {

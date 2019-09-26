@@ -1,9 +1,7 @@
 package ua.nure.liubchenko.pr1;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
-
+import androidx.appcompat.app.AppCompatActivity;
 import ua.nure.liubchenko.pr1.ui.main.MainFragment;
 
 public class MainActivity extends AppCompatActivity {
